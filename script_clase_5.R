@@ -7,6 +7,7 @@ library(ggplot2)
 library(caret)
 library(dplyr)
 library(tidyr)
+library(antitrust)
 
 setwd("C:/Users/Felipe/OneDrive/Universidad/Semestre 2018-Vacacional/Big Data/Clases/Complementarias/Clase 5")
 
