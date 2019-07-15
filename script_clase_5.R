@@ -8,7 +8,7 @@ library(caret)
 library(dplyr)
 library(tidyr)
 
-setwd("C:/Users/Felipe/OneDrive/Universidad/Semestre 2018-Vacacional/Big Data/Clases/Complementarias/Clase 5")
+setwd("C:/Users/Felipe/OneDrive/Universidad/Semestre 2018-Vacacional/Big Data/Clases/Complementarias/Matrices de confusión")
 
 alcaldes<-read.csv("base_gastos.csv")
 
